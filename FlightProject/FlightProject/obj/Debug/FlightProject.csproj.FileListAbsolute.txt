@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\FlightProject\FlightProject\bin\Debug\FlightProject.exe.config
+C:\Users\User\source\repos\FlightProject\FlightProject\bin\Debug\FlightProject.exe
+C:\Users\User\source\repos\FlightProject\FlightProject\bin\Debug\FlightProject.pdb
+C:\Users\User\source\repos\FlightProject\FlightProject\obj\Debug\FlightProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FlightProject\FlightProject\obj\Debug\FlightProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FlightProject\FlightProject\obj\Debug\FlightProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlightProject\FlightProject\obj\Debug\FlightProject.exe
+C:\Users\User\source\repos\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
